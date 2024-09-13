@@ -75,4 +75,4 @@ Template Name: 中級
       </div>
     </section>
   </div>
-<?php get_footer(); ?>
+<?php get_footer("cyukyu"); ?>
