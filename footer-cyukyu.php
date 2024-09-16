@@ -1,13 +1,8 @@
-<footer class="footer">
-  <div class="footer-logo">Progate</div>
-      <div class="footer-list">
-        <ul>
-          <li>中級</li>
-          <li>採用</li>
-          <li>お問い合わせ</li>
-        </ul>
+<footer>
+      <div class="container">
+        <img src="https://prog-8.com/images/html/advanced/footer_logo.png">
+        <p>Learn to code, learn to be creative.</p>
       </div>
-</footer>
-  <?php wp_footer();?>
-</body>
+    </footer>
+  </body>
 </html>
