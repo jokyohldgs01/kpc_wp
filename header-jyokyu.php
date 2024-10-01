@@ -16,7 +16,7 @@
       <span class="fa fa-bars menu-icon"></span>
 
       <div class="header-right">
-        <a href="#" class="login">ログアウトです</a>
+        <a href="#" class="login">ログイン</a>
        </div>
     </div>
   </header>
